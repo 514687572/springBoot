@@ -78,7 +78,7 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.stip.net</groupId>
+			<groupId>com.github.514687572</groupId>
 			<artifactId>STIP-generator</artifactId>
 			<version>1.0</version>
 		</dependency>
